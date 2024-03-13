@@ -36,7 +36,7 @@ I am a hobby python developer <img src="https://github.com/dw0rsec/dw0rsec/blob/
 
 ---
 
-### :hammer_and_wrench: Languages and Tools : 
+### :hammer_and_wrench: Skills : 
 
 <div>
   <a href="https://git-scm.com/"><img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/git.svg" title="Git" alt="Git" width="45" height="45"/></a>&nbsp;
