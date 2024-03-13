@@ -22,7 +22,7 @@
 
 ### :man_technologist: Whoami :
 
-I am a hobby developer <img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/cat.gif" width="30"> from Germany.
+I am a hobby python developer <img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/cat.gif" width="30"><img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/python.svg" width="20"> from Germany.
 
 - :telescope: I'm interested in cyber security and everything Linux related.
 
@@ -39,14 +39,10 @@ I am a hobby developer <img src="https://github.com/dw0rsec/dw0rsec/blob/main/pi
 ### :hammer_and_wrench: Languages and Tools : 
 
 <div>
-  <img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/git.svg" title="Git" alt="Git" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/docker.svg" title="Docker" alt="Docker" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/python.svg" title="Python" alt="Python" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/html5.svg" title="HTML5" alt="HTML5" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/css3.svg" title="CSS3" alt="CSS3" width="55" height="55"/>&nbsp;
+  <a href="https://git-scm.com/"><img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/git.svg" title="Git" alt="Git" width="45" height="45"/></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/docker.svg" title="Docker" alt="Docker" width="55" height="55"/></a>&nbsp;
+  <a href="https://www.python.org/"><img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/python.svg" title="Python" alt="Python" width="50" height="50"/></a>&nbsp;
 </div>
-
-<sub>(basic knowledge)</sub>
 
 ---
 
