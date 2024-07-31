@@ -28,8 +28,6 @@
 
 - Currently working on improving my Python skills :seedling: <img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/python.svg" width="20">
 
-- I love all kinds of japanese ramen ❤️ 🍜
-
 - Hacker spirit 💻 🏴‍☠️
 
 - How to reach me : :mailbox: ➡️ [![Telegram Badge](https://img.shields.io/badge/-dw0rsec-1c93e3?style=flat&logo=Telegram&logoColor=white)](https://t.me/dw0rsec)
