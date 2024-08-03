@@ -34,12 +34,15 @@
 
 ---
 
-### :hammer_and_wrench: Skills : 
+### :hammer_and_wrench: Stuff I use : 
 
 <div>
   <a href="https://git-scm.com/"><img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/git.svg" title="Git" alt="Git" width="45" height="45"/></a>&nbsp;
   <a href="https://www.docker.com/"><img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/docker.svg" title="Docker" alt="Docker" width="55" height="55"/></a>&nbsp;
   <a href="https://www.python.org/"><img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/python.svg" title="Python" alt="Python" width="50" height="50"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/html5.svg" title="html5" alt="html5" width="50" height="50"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/css3.svg" title="css3" alt="css3" width="50" height="50"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/javascript.svg" title="Javascript" alt="Javascript" width="42" height="42"/></a>&nbsp;
 </div>
 
 ---
