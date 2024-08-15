@@ -43,6 +43,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/html5.svg" title="html5" alt="html5" width="50" height="50"/></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/css3.svg" title="css3" alt="css3" width="50" height="50"/></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/javascript.svg" title="Javascript" alt="Javascript" width="42" height="42"/></a>&nbsp;
+  <a href="https://www.vim.org/"><img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/vim.svg" title="Vim" alt="Vim" width="45" height="45"/></a>&nbsp;
 </div>
 
 ---
