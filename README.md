@@ -24,11 +24,13 @@
 
 - Hobby dev from Germany <img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/cat.gif" width="30"> :de:
 
-- Web hacking and Linux aficionado 🕸️ :penguin:
+- Web hacking and Linux acolyte 🕸️ :penguin:
 
-- Currently working on improving my Python skills :seedling: <img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/python.svg" width="20">
+- Likes Python programming  :seedling: <img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/python.svg" width="20">
 
-- Hacker spirit 💻 🏴‍☠️
+- "Hack the planet" advocate 🌎 🏴‍☠️
+
+- Shell enthusiast :heart: :shell:
 
 - How to reach me : :mailbox: ➡️ [![Telegram Badge](https://img.shields.io/badge/-dw0rsec-1c93e3?style=flat&logo=Telegram&logoColor=white)](https://t.me/dw0rsec)
 
@@ -56,6 +58,6 @@
 
 ---
 
-:heart: the :shell:
+
 
 :space_invader:dw0rsec:space_invader:
