@@ -7,9 +7,9 @@
     <a href="https://t.me/dw0rsec">
       <img src="https://img.shields.io/badge/Telegram-1c93e3?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge">
     </a>
-    <a href="https://discord.com/users/1200902679006818326">
+<!--<a href="https://discord.com/users/1200902679006818326">
       <img src="https://img.shields.io/badge/Discord-404eed?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge">
-    </a>
+    </a>-->
   </div>
   <img src="https://komarev.com/ghpvc/?username=dw0rsec&style=flat-square&color=blue" alt=""/>
   <h3>
