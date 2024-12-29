@@ -4,11 +4,11 @@
     <a href="https://infosec.exchange/@dw0rsec">
       <img src="https://img.shields.io/badge/Mastodon-5c4de3?logo=mastodon&logoColor=white&style=for-the-badge" alt="Mastodon Badge">
     </a>
-    <a href="https://t.me/dw0rsec">
-      <img src="https://img.shields.io/badge/Telegram-1c93e3?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge">
-    </a>
     <a href="https://discord.com/users/1322862200028925963">
       <img src="https://img.shields.io/badge/Discord-404eed?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge">
+    </a>
+    <a href="https://t.me/dw0rsec">
+      <img src="https://img.shields.io/badge/Telegram-1c93e3?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge">
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=dw0rsec&style=flat-square&color=blue" alt=""/>
