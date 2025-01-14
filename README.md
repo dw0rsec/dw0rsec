@@ -50,9 +50,7 @@
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dw0rsec&theme=midnight-purple&mode=weekly&background=000000)](https://git.io/streak-stats)
+### :pencil: Languages :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dw0rsec&layout=compact&theme=midnight-purple&hide=vim+script)](https://github.com/anuraghazra/github-readme-stats)
 
