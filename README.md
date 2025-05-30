@@ -7,8 +7,8 @@
     <a href="https://discord.com/users/1322862200028925963">
       <img src="https://img.shields.io/badge/Discord-404eed?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge">
     </a>
-    <a href="https://t.me/dw0rsec">
-      <img src="https://img.shields.io/badge/Telegram-1c93e3?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge">
+    <a href="#">
+      <img src="https://img.shields.io/badge/fckelon-f44336?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge">
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=dw0rsec&style=flat-square&color=blue" alt=""/>
@@ -31,8 +31,6 @@
 - "Hack the planet" advocate 🌎 🏴‍☠️
 
 - Shell enthusiast :heart: :shell:
-
-- How to reach me : :mailbox: ➡️ [![Telegram Badge](https://img.shields.io/badge/-dw0rsec-1c93e3?style=flat&logo=Telegram&logoColor=white)](https://t.me/dw0rsec)
 
 ---
 
