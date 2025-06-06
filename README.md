@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/dw0rsec.png" width="200"/>
   <div id="badges">
-    <a href="https://infosec.exchange/@dw0rsec">
+    <a href="https://infosec.exchange/@dw0rsec" target="_blank">
       <img src="https://img.shields.io/badge/Mastodon-5c4de3?logo=mastodon&logoColor=white&style=for-the-badge" alt="Mastodon Badge">
     </a>
-    <a href="https://discord.com/users/1322862200028925963">
+    <a href="https://discord.com/users/1322862200028925963" target="_blank">
       <img src="https://img.shields.io/badge/Discord-404eed?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge">
     </a>
     <a href="#" title="Username: dw0rsec.42">
@@ -13,7 +13,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=dw0rsec&style=flat-square&color=blue" alt=""/>
   <h3>
-    'Hello, World!'
+    Hello, World!
     <img src="https://github.com/dw0rsec/dw0rsec/blob/main/pictures/wave.gif" width="20px"/>
   </h3>
 </div>
@@ -50,7 +50,7 @@
 
 ### :pencil: Languages :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dw0rsec&layout=compact&theme=midnight-purple&hide=vim+script)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dw0rsec&layout=donut&langs_count=10&theme=midnight-purple)](https://dw0rsec.github.io)
 
 ---
 
